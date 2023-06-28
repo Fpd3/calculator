@@ -1,0 +1,3 @@
+.idea
+/venv/
+#To ignore on github cause of the large files
